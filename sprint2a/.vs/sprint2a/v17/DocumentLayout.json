@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\sprint2a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5657E1-053B-439C-AD9B-0B9ADF295084}|sprint2a\\sprint2a.pyproj|C:\\Users\\user\\source\\repos\\sprint2a\\sprint2a\\sprint2a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D5657E1-053B-439C-AD9B-0B9ADF295084}|sprint2a\\sprint2a.pyproj|solutionrelative:sprint2a\\sprint2a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sprint2a.py",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\sprint2a\\sprint2a\\sprint2a.py",
+              "RelativeDocumentMoniker": "sprint2a\\sprint2a.py",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\sprint2a\\sprint2a\\sprint2a.py",
+              "RelativeToolTip": "sprint2a\\sprint2a.py",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-21T16:08:01.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

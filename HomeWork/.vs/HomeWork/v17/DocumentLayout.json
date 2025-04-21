@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3133A78-54B8-4523-AEF6-35C606170E7C}|HomeWork\\HomeWork.pyproj|C:\\Users\\user\\source\\repos\\HomeWork\\HomeWork\\HomeWork.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B3133A78-54B8-4523-AEF6-35C606170E7C}|HomeWork\\HomeWork.pyproj|solutionrelative:HomeWork\\HomeWork.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeWork.py",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HomeWork\\HomeWork\\HomeWork.py",
+              "RelativeDocumentMoniker": "HomeWork\\HomeWork.py",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HomeWork\\HomeWork\\HomeWork.py",
+              "RelativeToolTip": "HomeWork\\HomeWork.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-21T15:22:57.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
